@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSONBuilder</string>
+    <string name="title_activity_set_values">SetValues</string>
+</resources>
